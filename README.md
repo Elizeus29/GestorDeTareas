@@ -1,4 +1,4 @@
-# GestorDeTareas
+# Gestor de Tareas
 Una pequeña aplicación en Ionic y Angular para gestionar tareas creada con Ionic y Angular 
 
 ### Esta aplicación permite
